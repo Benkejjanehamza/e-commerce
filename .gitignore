@@ -1,0 +1,4 @@
+.idea
+.gradle
+(or IntelliJ IDEA - Preferences on macOS).
+node_modules
